@@ -91,4 +91,4 @@ We invite you to explore the data and uncover actionable insights. Our analyses 
 
 ---
 
-*Created withExcel magic.*
+*Created with Excel magic.*
